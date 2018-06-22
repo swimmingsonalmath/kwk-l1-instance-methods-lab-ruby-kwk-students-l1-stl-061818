@@ -12,7 +12,7 @@ end
 
 end 
 
-billy =Dog.new
+billy = Dog.new
 billy.bark
 billy.sit 
   
