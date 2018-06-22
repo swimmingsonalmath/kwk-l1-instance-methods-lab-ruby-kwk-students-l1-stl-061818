@@ -12,8 +12,8 @@ end
 
 end 
 
-# billy = Dog.new
-# billy.bark
-# billy.sit 
+billy = Dog.new
+billy.bark
+billy.sit 
   
     
